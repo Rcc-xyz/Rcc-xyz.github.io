@@ -188,20 +188,6 @@
               </span>
 
           
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine：</span>
-    
-    <a title="valine" href="/2020/12/29/My-New-Post/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2020/12/29/My-New-Post/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  
 
         </div>
       </header>
@@ -284,7 +270,6 @@
 
           </div>
           
-    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -591,35 +576,6 @@ Content in the first column | Content in the second column
   
 
   
-
-
-<script>
-NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
-    var GUEST = ['nick', 'mail', 'link'];
-    var guest = '';
-    guest = guest.split(',').filter(item => {
-      return GUEST.includes(item);
-    });
-    new Valine({
-      el         : '#valine-comments',
-      verify     : ,
-      notify     : ,
-      appId      : 'IgfafxMfP9QnRUUmXiN9Exlb-gzGzoHsz',
-      appKey     : 'LRxnYhHJEzHj48Kh30hUS2hT',
-      placeholder: "",
-      avatar     : '',
-      meta       : guest,
-      pageSize   : '' || 10,
-      visitor    : ,
-      lang       : '' || 'zh-cn',
-      path       : location.pathname,
-      recordIP   : ,
-      serverURLs : ''
-    });
-  }, window.Valine);
-});
-</script>
 
 </body>
 </html>

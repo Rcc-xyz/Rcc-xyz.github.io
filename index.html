@@ -183,8 +183,6 @@
               </span>
 
           
-  
-  
 
         </div>
       </header>
@@ -290,8 +288,6 @@
               </span>
 
           
-  
-  
 
         </div>
       </header>
@@ -479,35 +475,6 @@
   
 
   
-
-
-<script>
-NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
-    var GUEST = ['nick', 'mail', 'link'];
-    var guest = '';
-    guest = guest.split(',').filter(item => {
-      return GUEST.includes(item);
-    });
-    new Valine({
-      el         : '#valine-comments',
-      verify     : ,
-      notify     : ,
-      appId      : 'IgfafxMfP9QnRUUmXiN9Exlb-gzGzoHsz',
-      appKey     : 'LRxnYhHJEzHj48Kh30hUS2hT',
-      placeholder: "",
-      avatar     : '',
-      meta       : guest,
-      pageSize   : '' || 10,
-      visitor    : ,
-      lang       : '' || 'zh-cn',
-      path       : location.pathname,
-      recordIP   : ,
-      serverURLs : ''
-    });
-  }, window.Valine);
-});
-</script>
 
 </body>
 </html>
