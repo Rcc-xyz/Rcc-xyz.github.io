@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-02T15:30:15.391Z</updated>
+  <updated>2021-01-02T16:14:46.342Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://example.com/2020/12/29/My-New-Post/"/>
     <id>http://example.com/2020/12/29/My-New-Post/</id>
     <published>2020-12-29T15:56:48.000Z</published>
-    <updated>2021-01-02T15:30:15.391Z</updated>
+    <updated>2021-01-02T16:14:46.342Z</updated>
     
-    <content type="html"><![CDATA[<p>此站点…<br><del>咕咕ing</del> 建设ing<br><del>也不知道咕到什么时候</del> 快了快了…快了吧</p>]]></content>
+    <content type="html"><![CDATA[<p>此站点…<br><del>咕咕ing</del> 建设ing<br><del>也不知道咕到什么时候</del> 快了快了…快了吧</p><p>&lt;%- partial(‘_partial/comment’) %&gt;</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;此站点…&lt;br&gt;&lt;del&gt;咕咕ing&lt;/del&gt; 建设ing&lt;br&gt;&lt;del&gt;也不知道咕到什么时候&lt;/del&gt; 快了快了…快了吧&lt;/p&gt;
+&lt;p&gt;&amp;lt;%- partial(‘_partial/comment’) %&amp;gt;&lt;/p&gt;
 </summary>
       
     
