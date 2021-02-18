@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-18T14:24:34.869Z</updated>
+  <updated>2021-02-18T14:36:12.706Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2021/02/18/kustom-feedback/"/>
     <id>http://example.com/2021/02/18/kustom-feedback/</id>
     <published>2021-02-18T13:38:37.000Z</published>
-    <updated>2021-02-18T14:24:34.869Z</updated>
+    <updated>2021-02-18T14:36:12.706Z</updated>
     
-    <content type="html"><![CDATA[<p>这里用于反馈Kustom预设存在的问题<br>包括预设 <strong>联动效应</strong> <strong>线性晕染</strong> <strong>氢悦动</strong><br>请在下面评论反馈，并注明 <strong>预设名称</strong> <strong>机型</strong></p>]]></content>
+    <content type="html"><![CDATA[<p>这里用于反馈 <strong>Kustom预设</strong> 存在的问题<br>包括预设 <strong>联动效应</strong> <strong>线性晕染</strong> <strong>氢悦动</strong><br>请在下面评论反馈，并注明 <strong>预设名称</strong> <strong>机型</strong></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这里用于反馈Kustom预设存在的问题&lt;br&gt;包括预设 &lt;strong&gt;联动效应&lt;/strong&gt; &lt;strong&gt;线性晕染&lt;/strong&gt; &lt;strong&gt;氢悦动&lt;/strong&gt;&lt;br&gt;请在下面评论反馈，并注明 &lt;strong&gt;预设名称&lt;/strong&gt; &lt;stron</summary>
+    <summary type="html">&lt;p&gt;这里用于反馈 &lt;strong&gt;Kustom预设&lt;/strong&gt; 存在的问题&lt;br&gt;包括预设 &lt;strong&gt;联动效应&lt;/strong&gt; &lt;strong&gt;线性晕染&lt;/strong&gt; &lt;strong&gt;氢悦动&lt;/strong&gt;&lt;br&gt;请在下面评论反馈，并注明 &lt;strong&gt;预</summary>
       
     
     
