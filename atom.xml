@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-02T16:14:46.342Z</updated>
+  <updated>2021-02-18T14:24:34.869Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Kustom预设问题反馈</title>
+    <link href="http://example.com/2021/02/18/kustom-feedback/"/>
+    <id>http://example.com/2021/02/18/kustom-feedback/</id>
+    <published>2021-02-18T13:38:37.000Z</published>
+    <updated>2021-02-18T14:24:34.869Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里用于反馈Kustom预设存在的问题<br>包括预设 <strong>联动效应</strong> <strong>线性晕染</strong> <strong>氢悦动</strong><br>请在下面评论反馈，并注明 <strong>预设名称</strong> <strong>机型</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这里用于反馈Kustom预设存在的问题&lt;br&gt;包括预设 &lt;strong&gt;联动效应&lt;/strong&gt; &lt;strong&gt;线性晕染&lt;/strong&gt; &lt;strong&gt;氢悦动&lt;/strong&gt;&lt;br&gt;请在下面评论反馈，并注明 &lt;strong&gt;预设名称&lt;/strong&gt; &lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Σ⊙▃⊙川  这是什么地方？</title>
